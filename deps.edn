@@ -1,0 +1,8 @@
+{
+ {:deps
+  {org.clojure/clojure {:mvn/version "1.10.3"}
+   cheshire {:mvn/version "5.10.1"}
+   ring/ring-core {:mvn/version "1.9.4"}
+   fipp {:mvn/version "0.6.24"}}
+  }
+}
